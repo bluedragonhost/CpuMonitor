@@ -1,0 +1,5 @@
+C:\Users\Jack Sullivan\Documents\Projects\CPUMonitor\CPUMonitor\bin\Debug\CPUMonitor.exe
+C:\Users\Jack Sullivan\Documents\Projects\CPUMonitor\CPUMonitor\bin\Debug\CPUMonitor.pdb
+C:\Users\Jack Sullivan\Documents\Projects\CPUMonitor\CPUMonitor\obj\x86\Debug\CPUMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Jack Sullivan\Documents\Projects\CPUMonitor\CPUMonitor\obj\x86\Debug\CPUMonitor.exe
+C:\Users\Jack Sullivan\Documents\Projects\CPUMonitor\CPUMonitor\obj\x86\Debug\CPUMonitor.pdb

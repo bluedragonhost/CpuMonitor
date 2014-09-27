@@ -1,0 +1,4 @@
+C:\Users\Jack Sullivan\Documents\Projects\CPUMonitor\CPUMonitor\bin\Release\CPUMonitor.exe
+C:\Users\Jack Sullivan\Documents\Projects\CPUMonitor\CPUMonitor\bin\Release\CPUMonitor.pdb
+C:\Users\Jack Sullivan\Documents\Projects\CPUMonitor\CPUMonitor\obj\x86\Release\CPUMonitor.exe
+C:\Users\Jack Sullivan\Documents\Projects\CPUMonitor\CPUMonitor\obj\x86\Release\CPUMonitor.pdb
